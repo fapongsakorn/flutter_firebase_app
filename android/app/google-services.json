@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1055313647379",
+    "project_id": "moblelab-flutter-firebase",
+    "storage_bucket": "moblelab-flutter-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1055313647379:android:92dd952301bfdf56d5ece6",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1055313647379-avibnk8vv6qkjo01vojgnehjj4a4dgvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt-62d1DFB2wUpn0bpqMvW7tfxxelhhwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1055313647379-avibnk8vv6qkjo01vojgnehjj4a4dgvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
